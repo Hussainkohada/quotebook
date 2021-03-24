@@ -9,3 +9,5 @@
 
 4. “Halloween is the beginning of the holiday shopping season. That’s for women. The beginning of the holiday shopping 
 season for men is Christmas Eve.”
+
+5. The third commit.
